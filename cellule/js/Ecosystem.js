@@ -107,11 +107,11 @@ define( function ( require ) {
 			'legend' : { 'textStyle' : { 'color' : '#EFEFEF' } },
 
 			'backgroundColor' : {
-				'fill'   : '#000',
-				'stroke' : '#000'
+				'fill'   : '#111',
+				'stroke' : '#111'
 			},
-			'pieSliceBorderColor' : '#000',
-			'pieSliceTextStyle'   : { 'color' : '#000' }
+			'pieSliceBorderColor' : '#111',
+			'pieSliceTextStyle'   : { 'color' : '#111' }
 		};
 
 		var chart = new google.visualization.PieChart( document.getElementById( 'population-pie-chart' ) );
