@@ -1,16 +1,7 @@
-<!doctype html>
-<html>
-<head>
-	<meta charset="UTF-8">
-	<title>crotchpunchworthy.com</title>
-</head>
-<body>
-<h1>crotchpunchworthy.com</h1>
+# crotchpunchworthy.com
 
-<h1>Introduction</h1>
-
-<ol>
-<li>Crotch Punch Worthy is a binding agreement in which two or more individuals enter into, swearing to duly uphold the subsequent rules.</li>
+# Introduction
+Crotch Punch Worthy is a binding agreement in which two or more individuals enter into, swearing to duly uphold the subsequent rules.</li>
 </ol>
 
 <h1>The Parties</h1>
